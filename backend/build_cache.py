@@ -4,7 +4,7 @@ from PIL import Image
 from datetime import datetime
 
 
-MEMORIES_FOLDER = '/Users/ethanbroome/Ethan/Photos/SnapchatMemories'
+MEMORIES_FOLDER = '/path/to/your/memories/folder' #CHANGE THIS
 CACHE_FILE = os.path.join(os.path.dirname(__file__), 'cache.json')
 
 def get_timestamp(filepath):
