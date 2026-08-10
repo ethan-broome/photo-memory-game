@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 ### Setup
 
-Open `backend/build_cache.py` and set `MEMORIES_FOLDER` to the path of your photos folder, then run:
+Open `backend/build_cache.py`  and `backend/app.py` and set `MEMORIES_FOLDER` to the path of your photos folder, then run:
 ```bash
 python build_cache.py
 ```
