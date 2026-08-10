@@ -4,7 +4,7 @@ from build_cache import build_cache
 import json
 import os
 
-MEMORIES_FOLDER = '/Users/ethanbroome/Ethan/Photos/SnapchatMemories'
+MEMORIES_FOLDER = '/path/to/your/memories/folder' #CHANGE THIS
 HIGHSCORES_FILE = 'highscores.json'
 
 app = Flask(__name__)
