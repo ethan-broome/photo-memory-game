@@ -36,6 +36,8 @@ memories/
 *.png
 !public/**/*.png
 !src/**/*.png
+backend/cache.json
+backend/highscores.json
 
 # OS / Editor cruft
 .DS_Store
